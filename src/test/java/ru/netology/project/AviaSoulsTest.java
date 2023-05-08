@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 class AviaSoulsTest {
     Ticket ticket1 = new Ticket("Аэропорт1", "Аэропорт2", 30, 2, 5);
-    Ticket ticket2 = new Ticket("Аэропорт1", "Аэропорт2", 80, 6, 8);
+    Ticket ticket2 = new Ticket("Аэропорт1", "Аэропорт2", 100, 6, 8);
     Ticket ticket3 = new Ticket("Аэропорт1", "Аэропорт2", 40, 2, 6);
     Ticket ticket4 = new Ticket("Аэропорт1", "Аэропорт2", 100, 1, 6);
     Ticket ticket5 = new Ticket("Аэропорт1", "Аэропорт2", 70, 4, 8);
